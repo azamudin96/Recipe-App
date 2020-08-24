@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "951925193909",
+    "firebase_url": "https://recipeapp-4098a.firebaseio.com",
+    "project_id": "recipeapp-4098a",
+    "storage_bucket": "recipeapp-4098a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951925193909:android:551614a4909bc98e3052fc",
+        "android_client_info": {
+          "package_name": "com.azamudin.recipeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951925193909-6osqn5p3ppqc6ifamqji3o4jvqhej56l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtpFOKXnTTxkrVRVG0ZX3eFJKM6G3ykt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951925193909-6osqn5p3ppqc6ifamqji3o4jvqhej56l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
